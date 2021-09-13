@@ -9,6 +9,10 @@
           box-sizing: border-box;
 }
 
+.bgc{
+  background-color:black;
+}
+
 html {
   font-size: 18px;
   -webkit-box-sizing: border-box;
@@ -510,7 +514,3 @@ button {
   display: none;
 }
 /*# sourceMappingURL=style.css.map */
-
-.bgc{
-  background-color:black;
-}
