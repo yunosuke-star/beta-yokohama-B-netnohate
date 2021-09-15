@@ -368,7 +368,7 @@ button {
   position: absolute;
   top: calc(50% - 12px);
   right: 15px;
-  fill: #fff;
+  fill: #000;
   width: 12px;
   height: 24px;
 }
