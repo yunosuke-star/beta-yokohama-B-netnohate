@@ -6,6 +6,10 @@
 background: linear-gradient(#00bfff, #191970);
 }
 
+.main-bgc2{
+background: linear-gradient(#191970, #11114d);
+}
+
 *,
 *::before,
 *::after {
